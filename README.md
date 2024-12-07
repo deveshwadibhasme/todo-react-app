@@ -1,5 +1,9 @@
 # React + Vite
-# Project Development is in progress
+
+Project Development is in progress
+Stop the Development Update version is this 
+- [ToDoAppUpdated] (https://github.com/deveshwadibhasme/todo-react)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
