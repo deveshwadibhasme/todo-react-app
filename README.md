@@ -1,6 +1,5 @@
 # React + Vite
 
-Project Development is in progress
 Stop the Development Update version is this 
 - [ToDoAppUpdated] (https://github.com/deveshwadibhasme/todo-react)
 
